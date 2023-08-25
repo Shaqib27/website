@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.bike{
+    margin:140px auto 100px auto;
+    text-align: left;
+    width: 50%;
+    line-height: 2;
+    
+}
+.bike-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.bottom{
+    padding-top: 40px;
+    background-color: #cdede8; 
+    padding-bottom: 50px;
+}
+.c1{
+    position: relative;
+    right:30px;
+    bottom: 400px;
+    width: 250px;
+    height: 150px;
+}
+.c2{
+    position:relative;
+    left: 300px;
+    width: 230px;
+    height: 180px;
+    margin-bottom: 0px;
+}
+.design{
+    margin:80px auto 120px auto;
+    text-align: left;
+    width: 50%;
+    line-height: 2;
+}
+.da-img{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+.m2{
+    position:relative;
+    right:110px;
+}
+.mid{
+    background-color: #cdede8;  
+   
+}
+.name{
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+h1{
+    color:#66bfbf;
+    font-size: 5.625em;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+    line-height: 1.5;
+    
+}
+h2{
+    
+    color:#66bfbf;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color:11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+.intro{
+    padding-bottom: 60px;
+}
+.top{
+    margin-bottom:0px;
+    padding-bottom: 60px;
+    background-color: #cdede8;  
+    position:relative;
+    padding-top:100px;
+}
+.shaqib{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+.skill{  
+    padding-top: 50px;
+}
+hr{
+    margin: 0;
+    
+}
+
+.para{
+    margin-bottom:0;
+    padding-bottom: 20px;
+}
+
+.webdep{
+    color:#66bfbf;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+.line{
+    margin: auto;
+    background-color: none;
+    color:grey;
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 5px;
+    width: 5%;
+   
+}
+.bottom1{
+    background-color: rgb(126, 220, 220);
+    margin:0px;
+    line-height: 2;
+    
+}
+.copy-rgth{
+    margin: 0px;
+    color: rgb(82, 78, 78);
+}
